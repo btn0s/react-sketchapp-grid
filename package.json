@@ -1,0 +1,18 @@
+{
+  "name": "@username/react-sketchapp-grid",
+  "version": "0.1.0",
+  "description": "Grid System for use with React-Sketchapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "author": "Brendan T. Norris <brendan.t.norris@gmail.com> (https://twitter.com/brendantnorris)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
